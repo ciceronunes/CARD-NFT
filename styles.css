@@ -1,0 +1,99 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+}
+
+body{
+    background-color: hsl(217, 54%, 11%);
+}
+
+.container{
+    width: 235px;
+    height: 410px;
+    margin: 100px auto;
+    padding: 15px 15px;
+    background-color: hsl(216, 50%, 16%);
+}
+
+.equilibrium{
+    width: 100%;
+    border-radius: 7px;
+}
+
+h1{
+    color:hsl(0, 0%, 100%);
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 13px;
+}
+
+.paragraph{
+    text-align: left;
+    padding: 15px 0;
+    font-size: 13px;
+    line-height: 18px;
+    color: hsl(215, 56%, 70%);
+}
+
+.valor{
+    background-color: blueviolet;
+    height: 20px;
+    width: 205px;
+    
+}
+
+.valueimg{
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    float: left;
+}
+
+.value{
+    position: relative;
+    color:hsl(178, 100%, 50%);
+    font-size: 13px;
+    line-height: 20px;
+    text-align:left;
+    padding-left: 15px;
+    display: inline-block;
+}
+
+.tempimg{
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.temp{
+    float: right;
+    position: relative;
+    color: hsl(215, 56%, 70%);
+    font-size: 13px;
+    
+}
+/* ### Primary
+
+- Soft blue: hsl(215, 51%, 70%)
+- Cyan: hsl(178, 100%, 50%)
+
+### Neutral
+
+- Very dark blue (main BG): hsl(217, 54%, 11%)
+- Very dark blue (card BG): hsl(216, 50%, 16%)
+- Very dark blue (line): hsl(215, 32%, 27%)
+- White: hsl(0, 0%, 100%)
+
+## Typography
+
+### Body Copy
+
+- Font size (paragraph): 18px
+
+### Font
+
+- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
+- Weights: 300, 400, 600 */
