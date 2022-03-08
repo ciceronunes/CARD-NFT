@@ -38,7 +38,7 @@ h1{
 }
 
 .valor{
-    background-color: blueviolet;
+    margin-bottom: 13px;
     height: 20px;
     width: 205px;
     
@@ -46,35 +46,44 @@ h1{
 
 .valueimg{
     position: relative;
-    align-items: center;
-    justify-content: center;
+    margin:2.5px 2px;
+    height: 15px;
     float: left;
 }
 
 .value{
-    position: relative;
+    position: absolute;
     color:hsl(178, 100%, 50%);
-    font-size: 13px;
-    line-height: 20px;
-    text-align:left;
-    padding-left: 15px;
+    font-size: 10px;
+    margin-top: 3.66px;
     display: inline-block;
 }
 
 .tempimg{
     position: relative;
-    align-items: center;
-    justify-content: center;
-    
+    margin: 4px 0 0 132px;
+    height: 12px;
 }
 
 .temp{
     float: right;
     position: relative;
     color: hsl(215, 56%, 70%);
-    font-size: 13px;
-    
+    font-size: 10px;
+    margin-top: 3.6px;    
 }
+
+footer{
+    border-top:1px solid hsl(215, 32%, 27%);
+}
+
+.avatar{
+    height: 35px;
+    background-color: white;
+    border-radius: 50%;
+}
+
+
 /* ### Primary
 
 - Soft blue: hsl(215, 51%, 70%)
