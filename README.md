@@ -1,11 +1,11 @@
 # CARD NFT
 
-<img class="tela" src="./assets/telaCard.png" alt="screen">
+<img class="tela" src="./assets/telaCard.PNG" alt="screen">
 
-> Card de QR Code.
+> Card NFT.
 ## 😄 O que usamos nesse projeto
 
-Este projeto foi proposto pelo site Frontend Mentor onde o desafio seria replicar o componente QR Code.
+Este projeto foi proposto pelo site Frontend Mentor onde o desafio seria replicar o card NFT.
 
 Poderiamos ter aplicado outras formatações no mesmo mas escolhemos editar futuramente e acrescentar mais funçoes ao mesmo.
 
